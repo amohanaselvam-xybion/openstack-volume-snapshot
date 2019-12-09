@@ -10,6 +10,7 @@ In order the script to work, VM should be populated with necessary metadata.
 5. Volume_Snapshot_Backup : Yes | yes 
 5a. backup_type : Volume_Snapshot
 6. Volumes : Volume ID's for single instance
+7. Retention_Count : Snapshot retention number
 
 Requirements:
 pip install openstackclient
